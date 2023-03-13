@@ -16,4 +16,9 @@ forsatte med moodboarden samt tog pauser och abröt med sök pauser där jag fö
 ### Tisdag
 Gjorde klart moodboarden samt valde font för rubriker och brödtext, jag började även fundera på namn till hemsidan.
 
+## Vecka 11
+
+### Måndag 
+Har nu hittat ett sätt för våra användrare att lämna meddelanden/feedback genom en widgetfunktion. Har även jobbat lite med business objectives
+
 
