@@ -24,4 +24,18 @@ Har nu hittat ett sätt för våra användrare att lämna meddelanden/feedback g
 ### Tisdag
 Idag har vi alla snackat för att kolla så vi alla i gruppen är på samma plan. Efter det tog jag fram alla bilder vi kommer behöva för projektet och la in dom i ett dokument alla kan nå. jag har även lagt in länkar till all bootstrap kod vi behöver/kommer använda. har även hjälpt till lite med logan. jag har även hjälpt till men gruppnamn.
 
+## Vecka 12
+
+### Måndag 
+hjälp till med loggan samt börjat att arbeta med konstruktionen av huvudhemsidan
+
+## Vecka 13
+
+### Måndag 
+Fortsatt jobbat med konstruktion av huvudhemsidan
+
+### Tisdag
+Fortsatt jobbat med konstruktion av huvudhemsidan
+
+
 
