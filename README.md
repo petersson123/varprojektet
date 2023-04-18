@@ -42,5 +42,17 @@ Fortsatt jobbat med konstruktion av huvudhemsidan
 ### Måndag
 Ännu en dag laggd på att jobba med konstruktionen
 
+## Vecka 15
+
+### PÅSKLOV
+
+## Vecka 16
+
+### Måndag
+Jobbat på konstruktionen och föröskt hitta en multi item caraousel som faktiskt fungerar.
+
+### Tisdag
+Fixat med bildfiler samt hjälpt till med intresannt facta till call to action, men också jobbar på konstruktionen och försökt fixa ett problem med github.
+
 
 
