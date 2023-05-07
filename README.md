@@ -32,15 +32,15 @@ hjälp till med loggan samt börjat att arbeta med konstruktionen av huvudhemsid
 ## Vecka 13
 
 ### Måndag 
-Fortsatt jobbat med konstruktion av huvudhemsidan
+Fortsatt jobbat med stukturen av huvudhemsidan
 
 ### Tisdag
-Fortsatt jobbat med konstruktion av huvudhemsidan
+Fortsatt jobbat med stukturen av huvudhemsidan
 
 ## Vecka 14
 
 ### Måndag
-Ännu en dag laggd på att jobba med konstruktionen
+En dag laggd på att jobba med konstruktionen
 
 ## Vecka 15
 
@@ -53,6 +53,25 @@ Jobbat på konstruktionen och föröskt hitta en multi item caraousel som faktis
 
 ### Tisdag
 Fixat med bildfiler samt hjälpt till med intresannt facta till call to action, men också jobbar på konstruktionen och försökt fixa ett problem med github.
+
+## Vecka 17
+
+### Måndag
+Fick fixat problemet med github och hjälpte till med sliders och kod för darkmode och ändring av textstorleken.
+
+###
+Ingen lektion
+
+## Vecka 18
+
+### Måndag 
+Ingen lektion
+
+### Tisdag
+Fortsatt med kod och sliders till sökbaren, darkmdoe och textstorleken
+
+### Söndag
+skrivit klart koden till sökbaren och textstorleks ändrar slidern
 
 
 
