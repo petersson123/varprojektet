@@ -19,7 +19,7 @@ Gjorde klart moodboarden samt valde font för rubriker och brödtext, jag börja
 ## Vecka 11
 
 ### Måndag 
-Har nu hittat ett sätt för våra användrare att lämna meddelanden/feedback genom en widgetfunktion. Har även jobbat lite med business objectives
+Har nu hittat ett sätt för våra användrare att lämna meddelanden/feedback genom gmail. Har även jobbat lite med business objectives
 
 ### Tisdag
 Idag har vi alla snackat för att kolla så vi alla i gruppen är på samma plan. Efter det tog jag fram alla bilder vi kommer behöva för projektet och la in dom i ett dokument alla kan nå. jag har även lagt in länkar till all bootstrap kod vi behöver/kommer använda. har även hjälpt till lite med logan. jag har även hjälpt till men gruppnamn.
@@ -72,6 +72,36 @@ Fortsatt med kod och sliders till sökbaren, darkmdoe och textstorleken
 
 ### Söndag
 skrivit klart koden till sökbaren och textstorleks ändrar slidern
+
+## Vecka 19
+
+### Måndag
+ändrade om lite i koden till skbaren för att få den närmare till vårat önksade resultat
+
+### Tisdag
+ingen lektion
+
+## Vecka 20
+
+### Måndag 
+ingen lektion
+
+### Tisdag
+jobbat med uteseende och navigationen
+
+## Vecka 21
+
+### Måndag
+ingen lektion
+
+### Tisdag 
+prov
+
+### Onsdag/Torsdag
+Fixat till navbaren koden till sökbaren och utseendet samt layouten så att de ser hyggligt ut vid olika storlekar. gjorde också en PAGE NOT FOUND hemsida kopplat till sökbaren. sen har jag även laddat ner och laggt in bilder som VISSA har slarvat med och bara länkat från google. och sen laggt över kod/element till våra andra hemsidor. och förberätt presentaionen.
+
+
+
 
 
 
