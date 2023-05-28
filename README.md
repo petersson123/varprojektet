@@ -100,6 +100,9 @@ prov
 ### Onsdag/Torsdag
 Fixat till navbaren koden till sökbaren och utseendet samt layouten så att de ser hyggligt ut vid olika storlekar. gjorde också en PAGE NOT FOUND hemsida kopplat till sökbaren. sen har jag även laddat ner och laggt in bilder som VISSA har slarvat med och bara länkat från google. och sen laggt över kod/element till våra andra hemsidor. och förberätt presentaionen.
 
+### Söndag
+massa med mer grejor fixar till loggboken snart ifall du är inne och tittar
+
 
 
 
